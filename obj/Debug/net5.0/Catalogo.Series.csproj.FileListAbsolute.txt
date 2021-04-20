@@ -1,0 +1,16 @@
+C:\workspace\Catalogo.Series\bin\Debug\net5.0\Catalogo.Series.exe
+C:\workspace\Catalogo.Series\bin\Debug\net5.0\Catalogo.Series.deps.json
+C:\workspace\Catalogo.Series\bin\Debug\net5.0\Catalogo.Series.runtimeconfig.json
+C:\workspace\Catalogo.Series\bin\Debug\net5.0\Catalogo.Series.runtimeconfig.dev.json
+C:\workspace\Catalogo.Series\bin\Debug\net5.0\Catalogo.Series.dll
+C:\workspace\Catalogo.Series\bin\Debug\net5.0\ref\Catalogo.Series.dll
+C:\workspace\Catalogo.Series\bin\Debug\net5.0\Catalogo.Series.pdb
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.csprojAssemblyReference.cache
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.AssemblyInfoInputs.cache
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.AssemblyInfo.cs
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.csproj.CoreCompileInputs.cache
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.dll
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\ref\Catalogo.Series.dll
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.pdb
+C:\workspace\Catalogo.Series\obj\Debug\net5.0\Catalogo.Series.genruntimeconfig.cache
